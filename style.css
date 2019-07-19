@@ -422,6 +422,11 @@ header .toggle-menu{
     overflow: hidden;
     text-align: center;
 }
+
+.gallery{
+    background-color: #ccc;
+}
+
 .contact:after{
     content: "";
     display: block;
@@ -547,6 +552,10 @@ footer .social a:hover{
     .pricing > div > div h3{
         background: #555 !important;
         color: #fff !important;
+    }
+
+    .gallery{
+        background-color: #ccc;
     }
     .pricing h2{
         margin-bottom: 40px;
